@@ -17,7 +17,7 @@ OS: Windows 7
 Development Environment: Visual Studio 2010
 
 1. Installation
-You can go to: http://...... to download the Installation package.
+You can go to: https://github.com/mahi97/SIM5vs5/releases/download/v1.6/SIM5Installation.exe to download the Installation package.
 
 2.Run the program 
 
